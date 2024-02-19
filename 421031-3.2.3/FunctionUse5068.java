@@ -1,0 +1,6 @@
+import org.apache.hadoop.util.MachineList;
+public class FunctionUse5068 {
+public void funcUse() {
+MachineList machinelist = new MachineList();
+}
+}
